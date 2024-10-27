@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Lathif Nur Hidayat</h1> 
-<h3 align="center">🌱 A student at SMKN 1 Bantul, majoring in Software Engineering.</h3>
+<h1 align="left">Hi 👋, I'm Lathif Nur Hidayat</h1> 
+<h3 align="left">🌱 A student at SMKN 1 Bantul, majoring in Software Engineering.</h3>
 
 - 🚀 Currently exploring: **Mobile development with Flutter, Backend Development**
 - 📘 Looking to improve: **Backend programming and mobile app development**
