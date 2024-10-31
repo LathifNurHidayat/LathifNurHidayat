@@ -32,6 +32,9 @@
   <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40" title="Flutter"/> 
   </a> 
+</p>
+
+<p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" title="Html"/> 
   </a> 
@@ -44,4 +47,11 @@
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" title="PHP"/> 
   </a> 
+  <a href="https://git-scm.com/downloads" terget="_blank" rel="noreferrer">
+    <img src="https://cdn-icons-png.flaticon.com/128/15466/15466163.png" alt="Git" width="40"  height="40" title="Git">
+  </a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="GitHub" width="40" height="40" title="GitHub">
+  </a>
 </p>
+
