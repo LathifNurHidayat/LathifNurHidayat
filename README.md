@@ -2,7 +2,7 @@
 <h3 align="left">🌱 A student at SMKN 1 Bantul, majoring in Software Engineering.</h3>
 
 - 🚀 Currently exploring: **Mobile development with Flutter, Backend Development**
-- 📘 Looking to improve: **Backend programming and mobile app development**
+- 📘 Looking to improve: **App Develoment with .NET and Flutter**
 - 📫 How to reach me: **lathifnurhidayat80@gmail.com**
 
 <h3 align="left">Connect with me:</h3> 
@@ -57,6 +57,7 @@
   </a>  
 </p>
 <br/><br/>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=LathifNurHidayat&theme=dark&hide_border=false)<br/><br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LathifNurHidayat&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
