@@ -1,3 +1,7 @@
+
+![Animated GIF](https://media.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif?cid=ecf05e47iag5shlswtur98sr3elforbwrufbb4t5gwa55ixu&ep=v1_gifs_related&rid=giphy.gif&ct=g)
+
+
 <h1 align="left">Hi 👋, I'm Lathif Nur Hidayat</h1> 
 <h3 align="left">🌱 A student at SMKN 1 Bantul, majoring in Software Engineering.</h3>
 
