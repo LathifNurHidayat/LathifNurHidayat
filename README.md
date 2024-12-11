@@ -3,8 +3,8 @@
 <h1 align="left">Hi 👋, I'm Lathif Nur Hidayat</h1> 
 <h3 align="left">🌱 A student at SMKN 1 Bantul, majoring in Software Engineering.</h3>
 
-- 🚀 Currently exploring: **Mobile development with Flutter, Backend Development**
-- 📘 Looking to improve: **App Develoment with .NET and Flutter**
+- 🚀 Currently exploring: **Full Stack Developer**
+- 📘 Looking to improve: **App Develoment with .NET**
 - 📫 How to reach me: **lathifnurhidayat80@gmail.com**
 
 <h3 align="left">Connect with me:</h3> 
