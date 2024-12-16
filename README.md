@@ -1,4 +1,3 @@
-
 # 💫 About Me:
 Hi 👋, I'm Lathif Nur Hidayat<br>🌱 A student at SMKN 1 Bantul, majoring in Software Engineering.<br>🚀 Currently exploring: Full Stack Developer<br>📘 Looking to improve: App Develoment with C# .NET<br>📫 How to reach me: lathifnurhidayat80@gmail.com
 
@@ -55,7 +54,10 @@ Hi 👋, I'm Lathif Nur Hidayat<br>🌱 A student at SMKN 1 Bantul, majoring in 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=LathifNurHidayat&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LathifNurHidayat&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=LathifNurHidayat&limit=5&theme=monokai&combine_all_yearly_contributions=true)
+
 ---
-[![](https://visitcount.itsvg.in/api?id=LathifNurHidayat&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=LathifNurHidayat&icon=0&color=12)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
