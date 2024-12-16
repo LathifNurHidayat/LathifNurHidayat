@@ -4,7 +4,7 @@
 <h3 align="left">🌱 A student at SMKN 1 Bantul, majoring in Software Engineering.</h3>
 
 - 🚀 Currently exploring: **Full Stack Developer**
-- 📘 Looking to improve: **App Develoment with .NET**
+- 📘 Looking to improve: **App Develoment with C# .NET**
 - 📫 How to reach me: **lathifnurhidayat80@gmail.com**
 
 <h3 align="left">Connect with me:</h3> 
