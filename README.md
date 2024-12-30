@@ -3,7 +3,7 @@ Hi 👋, I'm Lathif Nur Hidayat<br>🌱 A student at SMKN 1 Bantul, majoring in 
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lathf.nyx) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lathif-nur-hidayat-498393307?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lathf.nhy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lathif-nur-hidayat-498393307?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
 
 # 💻 Tech Stack:
 <p align="left"> 
