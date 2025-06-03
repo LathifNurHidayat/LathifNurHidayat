@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Lathif Nur Hidayat<br>🌱 A student at SMKN 1 Bantul, majoring in Software Engineering.<br>🚀 Currently exploring: Full Stack Developer<br>📘 Looking to improve: App Develoment with C# .NET<br>📫 How to reach me: lathifnurhidayat80@gmail.com
+Hi 👋, I'm Lathif Nur Hidayat<br>📘 Looking to improve: App Develoment with C#, .NET, CodeIgniter <br>📫 How to reach me: lathifnurhidayat80@gmail.com
 
 
 ## 🌐 Socials:
@@ -13,9 +13,11 @@ Hi 👋, I'm Lathif Nur Hidayat<br>🌱 A student at SMKN 1 Bantul, majoring in 
    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
     <img src="https://qp-mrmousavi.github.io/assets/sql-server-Bqmg-TPT.png" alt="mssql" width="40" height="40" title ="Sql Server"/> 
   </a> 
-  
-  <a href="https://dart.dev" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40" title ="Dart"/> 
+  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow@2x.png" alt="Boostrap" width="40" height="40" title ="Boostrap"/> 
+  </a> 
+  <a href="https://dart.dev](https://codeigniter.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="codeigniter" width="40" height="40" title ="CodeIgniter"/> 
   </a> 
   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
     <img src="https://global-uploads.webflow.com/6047a9e35e5dc54ac86ddd90/63064f1fedf422395124660e_e7d03466.png" alt="dotnet" width="40" height="30" title =".Net" align="Top"/> 
@@ -23,12 +25,7 @@ Hi 👋, I'm Lathif Nur Hidayat<br>🌱 A student at SMKN 1 Bantul, majoring in 
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" title="Figma"/> 
   </a> 
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40" title="Flutter"/> 
-  </a> 
-</p>
-
-<p align="left">
+  
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" title="Html"/> 
   </a> 
