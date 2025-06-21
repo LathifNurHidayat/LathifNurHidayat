@@ -2,7 +2,7 @@
 # 💫 About Me:
 👋 Hi, I'm **Lathif Nur Hidayat**  
 🚀 Full-Stack Developer passionate about building robust applications  
-📚 Currently mastering: **C#**, **.NET**, and **CodeIgniter**  
+📚 Currently studying: **C#**, **.NET**, and **CodeIgniter**  
 📫 Reach me: [lathifnurhidayat80@gmail.com](mailto:lathifnurhidayat80@gmail.com)
 
 ## 🌐 Socials:
