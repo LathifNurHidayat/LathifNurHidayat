@@ -33,7 +33,6 @@
 
 # 📊 GitHub Stats:
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LathifNurHidayat&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LathifNurHidayat&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="180em" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LathifNurHidayat&theme=tokyonight&hide_border=false&layout=compact" />
 </div>
@@ -47,6 +46,10 @@
   ![snake gif](https://github.com/LathifNurHidayat/LathifNurHidayat/blob/output/github-snake-dark.svg)
 </div>
 
+<div align="center">
+
+  [![Lathif's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LathifNurHidayat&theme=react-dark&hide_border=true&area=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+</div>
 
 
 <!-- Visit Counter -->
@@ -54,3 +57,6 @@
   
 [![](https://visitcount.itsvg.in/api?id=LathifNurHidayat&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
 </div>
+
+
+
