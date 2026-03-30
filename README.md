@@ -26,7 +26,7 @@
 {
   "name"               :  "Lathif Nur Hidayat",
   "location"           :  "Indonesia 🇮🇩",
-  "currently_learning" :  [ "C#", ".NET", "CodeIgniter" ],
+  "currently_learning" :  [ "C#", ".NET", "CodeIgniter", "Laravel", "React" ],
   "interests"          :  [ "Clean Code", "System Design", "UI Engineering" ],
   "open_to"            :  "Collaboration & Projects",
   "contact"            :  "lathifnurhidayat80@gmail.com"
