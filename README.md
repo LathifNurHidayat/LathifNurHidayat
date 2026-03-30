@@ -28,7 +28,7 @@
   "location"           :  "Indonesia 🇮🇩",
   "currently_learning" :  [ "C#", ".NET", "CodeIgniter", "Laravel", "React" ],
   "interests"          :  [ "Clean Code", "System Design", "UI Engineering" ],
-  "open_to"            :  "Collaboration & Projects",
+  "open_to"            :  "Collaboration",
   "contact"            :  "lathifnurhidayat80@gmail.com"
 }
 ```
