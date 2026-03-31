@@ -129,6 +129,10 @@ const lathif = {
 <sub><b>MySQL</b></sub>
 </td>
 <td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=mssql" width="48"/><br/>
+<sub><b>SQL Server</b></sub>
+</td>
+<td align="center" width="110">
 <img src="https://skillicons.dev/icons?i=git" width="48"/><br/>
 <sub><b>Git</b></sub>
 </td>
