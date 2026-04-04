@@ -12,7 +12,7 @@
 
 ## 👤 &nbsp; About Me
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LathifNurHidayat&layout=donut&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8" width="290" />
+<img align="right" src="https://ghstats.dev/api/card?username=LathifNurHidayat&theme=tokyonight" width="200" />
 
 ```ts
 const lathif = {
