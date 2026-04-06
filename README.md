@@ -12,8 +12,6 @@
 
 ## 👤 &nbsp; About Me
 
-<img align="right" src="https://ghstats.dev/api/card?username=LathifNurHidayat&theme=tokyonight" width="200" />
-
 ```ts
 const lathif = {
   name    : "Lathif Nur Hidayat",
@@ -56,6 +54,7 @@ const lathif = {
 
 <div align="center">
 
+
 <img src="https://github-readme-stats.vercel.app/api?username=LathifNurHidayat&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e&include_all_commits=true&count_private=true&rank_icon=github" height="175"/>
 &nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=LathifNurHidayat&theme=dark&hide_border=true&background=0d1117&stroke=1f6feb&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff&sideLabels=8b949e&dates=484f58&currStreakNum=ffffff&sideNums=ffffff" height="175"/>
@@ -64,7 +63,7 @@ const lathif = {
 
 ---
 
-## ⚡ &nbsp; Tech Stack
+## ⚡ Tech Stack
 
 <div align="center">
 
@@ -128,12 +127,12 @@ const lathif = {
 <img src="https://skillicons.dev/icons?i=mssql" width="48"/><br/>
 <sub><b>SQL Server</b></sub>
 </td>
+</tr>
+<tr>
 <td align="center" width="110">
 <img src="https://skillicons.dev/icons?i=git" width="48"/><br/>
 <sub><b>Git</b></sub>
 </td>
-</tr>
-<tr>
 <td align="center" width="110">
 <img src="https://skillicons.dev/icons?i=github" width="48"/><br/>
 <sub><b>GitHub</b></sub>
@@ -150,7 +149,7 @@ const lathif = {
 <img src="https://skillicons.dev/icons?i=vscode" width="48"/><br/>
 <sub><b>VS Code</b></sub>
 </td>
-<td colspan="3"/>
+<td colspan="2"/>
 </tr>
 </table>
 
