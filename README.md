@@ -16,9 +16,9 @@
 const lathif = {
   name    : "Lathif Nur Hidayat",
   based   : "Indonesia 🇮🇩",
-  learning: ["C#", ".NET", "CodeIgniter"],
+  learning: ["React", "Laravel", "TypeScript", "CodeIgniter"],
   stack   : ["React", "Laravel", "TypeScript",
-             "PHP", "JavaScript", "PostgreSQL"],
+             "PHP", "JavaScript", "PostgreSQL", "C#", ".NET"],
   passion : "Clean code & elegant UI",
   contact : "lathifnurhidayat80@gmail.com",
   motto   : "Ship it. Then make it better.",
