@@ -2,7 +2,6 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&height=45&lines=⚡+Web+Developer+%7C+Problem+Solver;🛠️+Building+robust+%26+scalable+apps;🌱+Always+learning%2C+always+shipping)](https://git.io/typing-svg)
 
 </div>
 
