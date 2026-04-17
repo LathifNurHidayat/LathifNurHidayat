@@ -12,11 +12,11 @@
 ## 👤 &nbsp; About Me
 
 ```ts
-const lathif = {
+const lah? = {
   name    : "Lathif Nur Hidayat",
   based   : "Indonesia 🇮🇩",
   learning: ["React", "Laravel", "TypeScript", "CodeIgniter"],
-  stack   : ["Codeigniter", "JQuery", "C#", ".NET", "React", "Laravel", "TypeScript", "Javascript", "PHP", "JavaScript", "PostgreSQL", "Sql Server", "MySql"],
+  stack   : ["Codeigniter", "JQuery", "C#", ".NET", "React", "Javascript", "PHP", "JavaScript", "PostgreSQL", "Sql Server", "MySql"],
   passion : "Clean code & elegant UI",
   contact : "lathifnurhidayat80@gmail.com",
   motto   : "Ship it. Then make it better.",
